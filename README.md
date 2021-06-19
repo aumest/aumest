@@ -1,4 +1,4 @@
-Just student in South Korea.
+Just a student in South Korea.
 
 <!---
 devzhxpr/devzhxpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
